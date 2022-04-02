@@ -1,2 +1,2 @@
 # licheepi_nano_uboot
-licheepi nano uboot
+荔枝派nano u-boot
