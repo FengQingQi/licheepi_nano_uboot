@@ -1,2 +1,2 @@
 # licheepi_nano_uboot
-荔枝派nano u-boot
+support: F1C100s uboot
